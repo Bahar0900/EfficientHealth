@@ -1,0 +1,2 @@
+1.Netbeans IDE to run the project
+2.MySQL Connector/J 8.0.  JDBC (Java Database Connectivity)
