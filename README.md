@@ -62,7 +62,7 @@ Upon launching the application, you can navigate through various modules designe
 
 For a comprehensive walkthrough of the application's functionalities, you can refer to the following video:
 
-[![Hospital Management System Full Project in Java MySQL](https://img.youtube.com/vi/GSxglxYxhiA/0.jpg)](https://www.youtube.com/watch?v=GSxglxYxhiA)
+[![Hospital Management System Full Project in Java MySQL](https://img.youtube.com/vi/GSxglxYxhiA/0.jpg)](https://youtu.be/_-GcMgtBy5A)
 
 ## License
 
